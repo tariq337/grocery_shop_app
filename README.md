@@ -1,17 +1,12 @@
-# admindukanv1
+# grocery_shope_app
+grocery App for Displaying its Products
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# grocery_shop_app
+# images
+| :------: | :------: | :------: |
+| ![Product 1](img/app0.jpg) | ![Product 2](img/app1.jpg) | ![Product 3](img/app2.jpg) |
+| :------: | :------: | :------: |
+| ![Product 4](img/app3.jpg) | ![Product 5](img/app4.jpg) | ![Product 6](img/app5.jpg) |
+| :------: | :------: | :------: |
+| ![Product 7](img/app6.jpg) | ![Product 8](img/app7.jpg) | ![Product 9](img/app8.jpg) |
+| :------: |
+| ![Product 7](img/app9.jpg) |
